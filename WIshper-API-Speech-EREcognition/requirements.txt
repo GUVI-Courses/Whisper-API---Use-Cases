@@ -1,0 +1,12 @@
+flask
+openai
+pydub
+librosa
+scipy
+numpy
+nltk
+transformers
+scikit-learn
+tensorflow
+tf_keras
+pooch
